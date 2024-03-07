@@ -95,7 +95,7 @@ class Complex {
         Complex z = new Complex(this.real, -this.img);
         return z;
     }
-
+    
     /*@author Condori Cuevas Jhon Carlos*/
 
     double modulus() {
@@ -130,7 +130,7 @@ class Complex {
         Complex z = new Complex((int) newReal, (int) newImg);
         return z;
     }
-
+    
     /*@author Condori Cuevas Jhon Carlos*/
 
     Complex logarithm() {
