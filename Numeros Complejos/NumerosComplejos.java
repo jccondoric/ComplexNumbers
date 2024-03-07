@@ -1,5 +1,5 @@
 /**
- * Lab 3 Ingeniera de Sofware
+ * Tarea #1 Ingeniera de Sofware
  * Operaciones sobre numeros complejos
  * 
  * @author Zurita Paco Elvis Jherson
