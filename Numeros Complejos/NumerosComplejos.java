@@ -1,5 +1,5 @@
 /**
- * Tarea #1 Ingeniera de Sofware
+ * Tarea grupal #1 Ingeniera de Sofware
  * Operaciones sobre numeros complejos
  * 
  * @author Zurita Paco Elvis Jherson
@@ -79,6 +79,7 @@ class Complex {
     }
 
     /*@author Quispe Torrez Ever*/
+    /* Division */
 
     Complex division(Complex y) {
         Complex z = new Complex(0, 0);
@@ -108,6 +109,7 @@ class Complex {
     }
 
     /*@author Quispe Torrez Ever*/
+    /* Potencia */
 
     Complex power(double n) {
         double r = this.modulus();
@@ -118,7 +120,7 @@ class Complex {
         return z;
     }
 
-    /*@author Escobar Ruiz Marco Antonio*/
+    /*@author Escobar Ruiz Marco Antonio */
 
     Complex squareRoot() {
         double r = this.modulus();
